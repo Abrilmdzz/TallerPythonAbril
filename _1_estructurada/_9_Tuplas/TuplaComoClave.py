@@ -1,5 +1,4 @@
 if __name__ == '__main__':
-
     #Usar una tupla como claveen un diccionario
     diccionario = {
         ("Id, int"): '2',
