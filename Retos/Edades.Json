@@ -1,0 +1,45 @@
+{
+  "Usuarios": [
+    {
+
+      "Id": 1,
+      "Nombre":"Alison Cecilia ALonso Meneses",
+      "Edad": 21,
+      "RFC": "ACAM234567RTG"
+    },
+    {
+
+      "Id": 2,
+      "Nombre": "Elsi Abril Mendez Escalante",
+      "Edad": 20,
+      "RFC": "EAME060904RFG"
+    },
+    {
+      "Id": 3,
+      "Nombre": "Dulce Rubi Barrragan Peñaloza",
+      "Edad": 20,
+      "RFC": "DRBP459812RTF"
+    },
+    {
+
+      "Id": 4,
+      "Nombre": "Melani Mendez",
+      "Edad": 15,
+      "RFC": "MIME567892WER"
+    },
+    {
+
+      "Id": 5,
+      "Nombre": "Miguel Angel Mendez",
+      "Edad": 17,
+      "RFC": "MAME090805GHE"
+    },
+    {
+
+      "Id": 6,
+      "Nombre": "Miguel Mendez",
+      "Edad": 43,
+      "RFC": "MAME090805GHE"
+    }
+  ]
+}
